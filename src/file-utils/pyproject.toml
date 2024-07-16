@@ -11,7 +11,7 @@ include = ["edfi_lms_file_utils/py.typed"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-numpy = "1.26.4"
+numpy = "2.0.0"
 pandas = "^1.1.4"
 
 [tool.poetry.dev-dependencies]
