@@ -31,7 +31,7 @@ coverage = "^5.3"
 pook = "^1.0.1"
 twine = "^3.3.0"
 Faker = "^6.5.0"
-pyfakefs = "^4.5.6"
+pyfakefs = "^5.6.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.2.0"
