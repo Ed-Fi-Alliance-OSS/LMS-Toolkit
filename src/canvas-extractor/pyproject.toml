@@ -29,7 +29,7 @@ flake8 = "^3.8.4"
 mypy = "^0.790"
 coverage = "^5.3"
 pook = "^1.0.1"
-twine = "^3.3.0"
+twine = "^5.1.1"
 Faker = "^6.5.0"
 pyfakefs = "^4.5.6"
 
