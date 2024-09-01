@@ -25,7 +25,7 @@ arrow = "^1.2.3"
 
 [tool.poetry.dev-dependencies]
 black = "^24.4"
-flake8 = "^3.8.4"
+flake8 = "^7.1.1"
 mypy = "^0.790"
 coverage = "^5.3"
 pook = "^1.0.1"
